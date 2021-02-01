@@ -46,7 +46,9 @@ class Button:
 
         print_text(message = message, x = x + 10, y = y + 10, font_size = font_size)
 
-
+class Zomby:
+    def __init__(self):
+        self.image = 
 class Player:
     def __init__(self):
         self.image = Walkright[1]
